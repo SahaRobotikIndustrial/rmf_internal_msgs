@@ -14,4 +14,10 @@ uint32 MODE_ADAPTER_ERROR=8
 
 uint32 MODE_CLEANING=9
 
+###Ingestor Dispenser
+uint32 MODE_PICKUP=10
+uint32 MODE_PICKUP_DONE=11
+uint32 MODE_DROPOFF=12
+uint32 MODE_DROPOFF_DONE=13
+
 uint64 mode_request_id
